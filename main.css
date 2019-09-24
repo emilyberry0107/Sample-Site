@@ -1,0 +1,49 @@
+nav{
+    background-color: gold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+brand{
+    font-size: 50px;
+    font-weight: bold;
+}
+aisle{
+    font-size: 18px;
+    background-color: gold;
+    font-style: italic;
+}
+info{
+    font-size: 18px;
+    font-style: italic;
+}
+sign-in{
+    font-size: 18px;
+    font-style: italic;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    background-color: blue;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+h3{
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p{
+    background-color: red;
+}
+div{
+    background-color: gold;
+    font-weight: 700;
+}
+footer{
+    background-color: gold;
+    font-style: italic;
+}
